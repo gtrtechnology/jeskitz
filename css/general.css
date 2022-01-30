@@ -51,4 +51,6 @@
     color: #fff;
     font-size: 13em;
     position: absolute;
+    opacity: .85;
+    z-index: 1;
 }
